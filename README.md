@@ -36,9 +36,7 @@ This BMI (Body Mass Index) Calculator is a simple tool that helps users calculat
 
 2. Open the `bmi.html` file in your web browser.
 
-## Screenshots
 
-![BMI Calculator](/screenshots/bmi-calculator.png)
 
 ## Contributing
 
@@ -48,9 +46,6 @@ If you'd like to contribute to this project, please follow these steps:
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and submit a pull request.
 
-## License
-
-This BMI Calculator is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
